@@ -27,7 +27,8 @@ Este repositório foi criado para a realização da atividade prática de Gerên
 
 ### **Print 3 - Criação e edição da branch:** <img width="1377" height="196" alt="image" src="https://github.com/user-attachments/assets/2a9b863f-0fd3-4927-8785-190f4b2d1e42" />
 
-* **Print 4 - Pull Request aceito e aprovado:** <img width="876" height="201" alt="image" src="https://github.com/user-attachments/assets/be7874c1-9786-4274-9af0-532842a61891" />
+### **Print 4 - Pull Request aceito e aprovado:** <img width="876" height="201" alt="image" src="https://github.com/user-attachments/assets/be7874c1-9786-4274-9af0-532842a61891" />
 
-* **Print 5 - Merge realizado com sucesso:** <img width="638" height="308" alt="image" src="https://github.com/user-attachments/assets/f1296e16-87dc-4586-b60f-bc28b248ecf5" />
+### **Print 5 - Merge realizado com sucesso:** <img width="639" height="396" alt="image" src="https://github.com/user-attachments/assets/05fa7d6d-ab1e-4581-b4e9-efd83616ee2c" />
+
 
