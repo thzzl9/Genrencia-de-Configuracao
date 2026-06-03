@@ -4,7 +4,7 @@ Este repositório foi criado para a realização da atividade prática de Gerên
 
 ## 👥 Alunos
 * **Aluno 1:** Thiago Vasconcelos de Assunção
-* **Aluno 2:** David Análio Alfaia dos Santos
+
 ---
 
 ## 🛠️ O que foi feito:
