@@ -3,8 +3,8 @@
 Este repositório foi criado para a realização da atividade prática de Gerência de Configuração, utilizando Git, GitHub e Java[cite: 1].
 
 ## 👥 Alunos
-* **Aluno 1:** [Thiago Vasconcelos de Assunção]
-* **Aluno 2:** [David Análio Alfaia dos Santos]
+* **Aluno 1:** Thiago Vasconcelos de Assunção
+* **Aluno 2:** David Análio Alfaia dos Santos
 ---
 
 ## 🛠️ O que foi feito:
