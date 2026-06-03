@@ -19,8 +19,7 @@ Este repositório foi criado para a realização da atividade prática de Gerên
 ## 📷 Prints da Atividade
 
 ### **Print 1 - Colaboradores adicionados:**
-<img width="337" height="158" alt="image" src="https://github.com/user-attachments/assets/40b07519-13a1-4be5-a5f1-b5817ec3b031" />
-  
+<img width="914" height="686" alt="image" src="https://github.com/user-attachments/assets/73d6ee6d-3325-4fd8-a27f-075ab78eb0c9" />
 * **Print 2 - Primeiro commit do código Java:** ![Commit Inicial](link_da_imagem_aqui)
 * **Print 3 - Criação e edição da branch:** ![Branch](link_da_imagem_aqui)
 * **Print 4 - Pull Request aceito e aprovado:** ![Pull Request](link_da_imagem_aqui)
